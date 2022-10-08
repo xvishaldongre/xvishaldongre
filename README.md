@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @xvishaldongre
-- 👀 I’m interested in GNU/Linux 😉, Svelte and JS.
-- 🌱 I’m currently learning Azure.
-- 💞️ I’m looking to collaborate on lifi.
+- 👋 Hi, I’m Vishal Dongre
+- 👀 I’m interested in GNU/Linux 😉, AWS, Terraform and DevOps.
+- 🌱 I’m currently learning Terraform.U
 - 📫 How to reach me @xvishaldongre
 
 <!---
